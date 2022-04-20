@@ -1,3 +1,6 @@
+
+#Finding Maximum
+
 a = 10
 b = 20
 
@@ -17,6 +20,23 @@ def Maximum(a,b):
 		print"b is Maximum, b =  ",b
 
 Maximum(a,b)
+
+#Factorial 
+
+
+
+a =int(input("Enter a number"))
+c = 1
+
+for i in range(1,a+1):
+	c = c * i
+
+
+print"The Factorial is  ",c
+
+
+
+
 
 
 
