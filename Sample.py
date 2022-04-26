@@ -47,3 +47,11 @@ def Factorial(n):
 
 print(Factorial(5))
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> dev
